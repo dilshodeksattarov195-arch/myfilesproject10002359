@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcpdate",
+        "uuid": 17246649,
+        "checksum": "bjdxo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
